@@ -3,7 +3,7 @@
 ### Resources
 
 - https://posit.co/blog/renv-1-0-0/
-- https://rstudio.github.io/renv/articles/renv.html#caveats
+- https://rstudio.github.io/renv/articles/renv.html
 - https://rstudio.github.io/renv/articles/docker.html
 - https://stackoverflow.com/questions/74025052/renv-and-git-what-to-commit
 
